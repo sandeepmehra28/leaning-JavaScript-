@@ -1,0 +1,15 @@
+When we take a user input than use this
+
+-use ( prompt("Enter message");  )
+
+-for take integer value use this
+
+  parseInt(prompt("Enter a msg");)
+
+-for take a float value 
+
+  parseFloat(prompt("Enter a msg");)
+
+-for take a string
+
+ prompt("Enter a msg");

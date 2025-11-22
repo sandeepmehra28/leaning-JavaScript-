@@ -45,10 +45,12 @@ let a =18 ;
 
 let fruit = prompt("please enter your fruit");
 switch (fruit) {
-    case "":
-        
+    case "apple":
+         console.log("100 rupees per kg.");
         break;
-
+    case "mango":
+        console.log("50 pr kg.");
+        break;
     default:
         break;
 }
