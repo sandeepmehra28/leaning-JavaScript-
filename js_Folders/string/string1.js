@@ -20,6 +20,17 @@ console.log(name.replace("sandeep","sandy"));
 console.log(name.split(" "));
 
 
+//combiling strings
+let obj = {
+    item : "pen",
+    price : 20
+};
+// first way
+console.log("this item is " ,obj.item ,"and this is price " ,obj.price);
+
+//second way called is string interpolation
+let output = `This is my item ${obj.item} and the price is ${obj.price}`;
+console.log(output);
 
 
 
