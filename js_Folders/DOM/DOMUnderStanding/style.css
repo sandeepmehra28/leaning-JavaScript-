@@ -1,0 +1,23 @@
+#heading{
+    color: blue;
+}
+p{
+    font-size: 18px;
+    color: rgb(5, 32, 236);
+    width: 60%;
+  }
+h2{
+    color: purple;
+}
+button{
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+body{
+    font-family: Arial, sans-serif;
+    background-color: #a9a4a4;
+}
