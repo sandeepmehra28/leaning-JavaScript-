@@ -1,4 +1,4 @@
-#heading{
+/* #heading{
     color: blue;
 }
 p{
@@ -20,4 +20,14 @@ button{
 body{
     font-family: Arial, sans-serif;
     background-color: #a9a4a4;
+} */
+#myClass{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+.newClass{
+    background-color: yellow;
+    padding: 10px;
+    border: 2px solid black;
 }
