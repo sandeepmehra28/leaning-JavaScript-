@@ -34,12 +34,12 @@
 
 
 //property
-//let div = document.querySelector("div");
-//console.dir(div.children);
-//console.dir(div.childNodes);
-//console.dir(div.innerHTML);
-//console.dir(div.innerText);
-//console.dir(div.textContent);
+// let div = document.querySelector("div");
+// console.dir(div.children);
+// console.dir(div.childNodes);
+// console.dir(div.innerHTML);
+// console.dir(div.innerText);
+// console.dir(div.textContent);
 
 
 // let access = document.querySelector("div");
